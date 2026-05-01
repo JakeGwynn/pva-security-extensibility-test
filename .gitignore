@@ -1,0 +1,10 @@
+# Local artifacts
+*.log
+*.tmp
+.vs/
+.vscode/
+
+# Token / secret leaks
+*.tok
+secrets.*
+*.secret
